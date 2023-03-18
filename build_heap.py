@@ -25,7 +25,7 @@ def sift_down(i, data, swaps):
         sift_down(min_index, data, swaps)
 
 
-    return swaps
+   return swaps
 
 
 def main():
